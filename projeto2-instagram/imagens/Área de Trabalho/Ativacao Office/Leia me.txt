@@ -1,0 +1,6 @@
+1 - executar como administrador o arquivo "office"
+2 - aguardar a finalização (obs: podem aparecer mensagens de erro, então o melhor a fazer é aguardar a finalização,
+abrir o word ou excel e verificar se deu certo)
+3 - pronto, o office está ativado
+
+LINK VIDEO TUTORIAL: https://www.youtube.com/watch?v=BvZEhP8A6Ho
